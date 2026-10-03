@@ -1,0 +1,22 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Raw smartphone sensor data
+data/*.csv
+
+# Generated runtime data
+results/*.csv
+results/*.txt
